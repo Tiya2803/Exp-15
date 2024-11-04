@@ -139,11 +139,9 @@ a.
 <BR>
 b.
 ![image](https://github.com/user-attachments/assets/d0ff97d9-1fb7-4400-8359-f1a896adad70)
-
 <BR>
 c.
 ![image](https://github.com/user-attachments/assets/30341019-ca3b-4de5-9660-b952028f682d)
-
 <BR>
 d.
 ![image](https://github.com/user-attachments/assets/e611b40e-1cdb-4a0d-ac8f-15f8705f43e9)
